@@ -49,6 +49,6 @@ Run `CreatePacletArchive[source,dir]` where `source` is the location of Chakshu,
 
 
 
-### Documentation
+### Step by Step Guide
 
-Coming soon. Refer to the Functions folder.
+To see the step by step guide, open the Paclet Installation.nb file and read through it to get an in detail way of creating and running the Paclet
