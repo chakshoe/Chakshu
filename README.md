@@ -21,10 +21,6 @@
 
 This is all of the Mathematica commands that I have made and curated over the last 2 years of doing VCE Maths Methods.
 
-### Rationale
-
-TBD.
-
 ## Getting Started
 
 ### Loading this module into your local install
